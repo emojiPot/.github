@@ -70,6 +70,9 @@
 <div id="5"></div>
 
 ## 🎥 데모 영상
+[**🔗 서비스 시연 영상 바로가기 Click !**](https://youtu.be/yTaHxJBxeUQ) 👈
+
+> 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
 <br />
 
@@ -88,3 +91,4 @@
 <div id="8"></div>
 
 ## 📅 개발 기간
+23.04.07 ~ 23.11.16
